@@ -25,9 +25,9 @@ val users = arrayListOf<User>(
 )
 
 val caloriestrackers = arrayListOf<CaloriesTrackerDC>(
-    CaloriesTrackerDC(1,1, DateTime.now(),"Walking",10,40.0),
-    CaloriesTrackerDC(2,2, DateTime.now(),"Jogging",8,106.64),
-    CaloriesTrackerDC(3,3, DateTime.now(),"Cycling",15,99.9)
+    CaloriesTrackerDC(1,1,"Walking",10,40.0),
+    CaloriesTrackerDC(2,2,"Jogging",8,106.64),
+    CaloriesTrackerDC(3,3, "Cycling",15,99.9)
 )
 
 val measurements = arrayListOf<MeasurementDTO>(

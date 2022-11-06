@@ -27,7 +27,7 @@ class CaloriesTrackerDAO {
             CaloriesTracker.insert {
                 it[userid] = acitivityData.userid
                 it[activity] = acitivityData.activity
-                it[date] = acitivityData.date
+                //it[date] = acitivityData.date
                 it[duration] = acitivityData.duration
                 it[caloriesBurnt] = calculatedCalories
             }
@@ -57,7 +57,7 @@ class CaloriesTrackerDAO {
                 CaloriesTracker.userid eq userid}) {
                 it[activity] = userData.activity
                 it[duration] = userData.duration
-                it[date] = userData.date
+                //it[date] = userData.date
                 it[caloriesBurnt] = CaloriesTrackerController.calculateCalories(userData)
             }
         }

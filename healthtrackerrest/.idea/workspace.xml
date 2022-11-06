@@ -6,16 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="d353ead4-c7b1-45e4-9fde-963c4fb58df3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ie/setu/controllers/CaloriesTrackerController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ie/setu/controllers/CaloriesTrackerController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/CaloriesTrackerDC.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/CaloriesTrackerDC.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/db/CaloriesTracker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/db/CaloriesTracker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/db/Measurements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/db/Measurements.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/repository/CaloriesTrackerDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ie/setu/domain/repository/CaloriesTrackerDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ie/setu/utils/DBUtilities.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ie/setu/utils/DBUtilities.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/ie/setu/helpers/Fixtures.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/ie/setu/helpers/Fixtures.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/ie/setu/repository/CaloriesTrackerDaoTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/ie/setu/repository/CaloriesTrackerDaoTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/healthtrackerrest-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/healthtrackerrest-1.0-jar-with-dependencies.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/healthtrackerrest-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/healthtrackerrest-1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.ActivityDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.ActivityDAOTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.CaloriesTrackerDaoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.CaloriesTrackerDaoTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.HealthParametersDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.HealthParametersDAOTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.MeasurementDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.MeasurementDAOTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.UserDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.UserDAOTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.ActivityDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.ActivityDAOTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.CaloriesTrackerDaoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.CaloriesTrackerDaoTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.HealthParametersDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.HealthParametersDAOTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.MeasurementDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.MeasurementDAOTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.UserDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.UserDAOTest.txt" afterDir="false" />
     </list>
@@ -195,6 +201,8 @@
       <workItem from="1667752113921" duration="1783000" />
       <workItem from="1667753922455" duration="529000" />
       <workItem from="1667757310323" duration="88000" />
+      <workItem from="1667768593549" duration="342000" />
+      <workItem from="1667769120763" duration="4482000" />
     </task>
     <servers />
   </component>

@@ -132,7 +132,7 @@ class CaloriesTrackerDaoTest {
          transaction {
             val caloriestrackerdao = populateCaloriesTrackerTable()
 
-            val caloriestracker3updated = CaloriesTrackerDC(3,3, DateTime.now(),"Cycling",15,99.9)
+            val caloriestracker3updated = CaloriesTrackerDC(3,3,"Cycling",15,99.9)
             caloriestrackerdao.update(3,caloriestracker3updated)
             assertEquals(caloriestracker3updated,caloriestrackerdao.findByUserID(3))
          }
@@ -143,7 +143,7 @@ class CaloriesTrackerDaoTest {
          transaction {
             val caloriestrackerdao = populateCaloriesTrackerTable()
 
-            val caloriestracker4updated = CaloriesTrackerDC(4,4, DateTime.now(),"Cycling",15,234.0)
+            val caloriestracker4updated = CaloriesTrackerDC(4,4,"Cycling",15,234.0)
             caloriestrackerdao.update(4,caloriestracker4updated)
 
             assertEquals(null,caloriestrackerdao.findByUserID(4))

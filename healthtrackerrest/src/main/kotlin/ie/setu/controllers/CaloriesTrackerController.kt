@@ -5,7 +5,6 @@ import com.fasterxml.jackson.datatype.joda.JodaModule
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import ie.setu.domain.CaloriesTrackerDC
-import ie.setu.domain.User
 import ie.setu.domain.repository.CaloriesTrackerDAO
 import io.javalin.http.Context
 import io.javalin.plugin.openapi.annotations.*
