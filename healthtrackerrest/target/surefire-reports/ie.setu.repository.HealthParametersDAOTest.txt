@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: ie.setu.repository.HealthParametersDAOTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.431 s <<< FAILURE! - in ie.setu.repository.HealthParametersDAOTest
+getting all parameters from a populated table returns all parameters  Time elapsed: 0.198 s  <<< ERROR!
+org.jetbrains.exposed.exceptions.ExposedSQLException: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: NULL not allowed for column "BMI"; SQL statement:
+INSERT INTO HEALTHPARAMETERS (BLOODPRESSURE, GLUCOSE, PULSE, USERID) VALUES (?, ?, ?, ?) [23502-199]
+	at ie.setu.repository.HealthParametersDAOTest$readallparameters.getting all parameters from a populated table returns all parameters(HealthParametersDAOTest.kt:36)
+Caused by: org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: 
+NULL not allowed for column "BMI"; SQL statement:
+INSERT INTO HEALTHPARAMETERS (BLOODPRESSURE, GLUCOSE, PULSE, USERID) VALUES (?, ?, ?, ?) [23502-199]
+	at ie.setu.repository.HealthParametersDAOTest$readallparameters.getting all parameters from a populated table returns all parameters(HealthParametersDAOTest.kt:36)
+
+multiple parameters added to table can be retrieved successfully  Time elapsed: 0.233 s  <<< ERROR!
+org.jetbrains.exposed.exceptions.ExposedSQLException: 
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: NULL not allowed for column "BMI"; SQL statement:
+INSERT INTO HEALTHPARAMETERS (BLOODPRESSURE, GLUCOSE, PULSE, USERID) VALUES (?, ?, ?, ?) [23502-199]
+	at ie.setu.repository.HealthParametersDAOTest$CreateParameters.multiple parameters added to table can be retrieved successfully(HealthParametersDAOTest.kt:61)
+Caused by: org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: 
+NULL not allowed for column "BMI"; SQL statement:
+INSERT INTO HEALTHPARAMETERS (BLOODPRESSURE, GLUCOSE, PULSE, USERID) VALUES (?, ?, ?, ?) [23502-199]
+	at ie.setu.repository.HealthParametersDAOTest$CreateParameters.multiple parameters added to table can be retrieved successfully(HealthParametersDAOTest.kt:61)
+
