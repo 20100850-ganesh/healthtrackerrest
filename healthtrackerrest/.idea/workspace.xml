@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d353ead4-c7b1-45e4-9fde-963c4fb58df3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/healthtrackerrest-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/healthtrackerrest-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/healthtrackerrest-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/healthtrackerrest-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.ActivityDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.ActivityDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.CaloriesTrackerDaoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.CaloriesTrackerDaoTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.HealthParametersDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.HealthParametersDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.MeasurementDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.MeasurementDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.UserDAOTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ie.setu.repository.UserDAOTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.ActivityDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.ActivityDAOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.CaloriesTrackerDaoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.CaloriesTrackerDaoTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.HealthParametersDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.HealthParametersDAOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.MeasurementDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.MeasurementDAOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.UserDAOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ie.setu.repository.UserDAOTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +194,7 @@
       <workItem from="1667750583037" duration="345000" />
       <workItem from="1667752113921" duration="1783000" />
       <workItem from="1667753922455" duration="529000" />
-      <workItem from="1667754938181" duration="1707000" />
+      <workItem from="1667757310323" duration="88000" />
     </task>
     <servers />
   </component>

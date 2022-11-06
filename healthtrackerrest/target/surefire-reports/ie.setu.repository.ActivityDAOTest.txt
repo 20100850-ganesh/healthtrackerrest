@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ie.setu.repository.ActivityDAOTest
 -------------------------------------------------------------------------------
-Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.125 s - in ie.setu.repository.ActivityDAOTest
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.131 s - in ie.setu.repository.ActivityDAOTest
