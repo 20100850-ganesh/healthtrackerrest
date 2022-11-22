@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ie.setu.repository.CaloriesTrackerDaoTest
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.312 s - in ie.setu.repository.CaloriesTrackerDaoTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.103 s - in ie.setu.repository.CaloriesTrackerDaoTest

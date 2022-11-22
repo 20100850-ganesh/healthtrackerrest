@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d353ead4-c7b1-45e4-9fde-963c4fb58df3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/healthtrackerrest-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/healthtrackerrest-1.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/healthtrackerrest-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/healthtrackerrest-1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +186,6 @@
       <workItem from="1667768593549" duration="342000" />
       <workItem from="1667769120763" duration="4482000" />
       <workItem from="1668521775535" duration="1010000" />
-      <workItem from="1669132044749" duration="385000" />
     </task>
     <servers />
   </component>
